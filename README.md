@@ -27,11 +27,12 @@ The following **additional** features are implemented:
 - [x] Users can select different languages with a drop down feature
 
 ## Video Walkthrough
-  
-<div>
- <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f74176dd83c4f4d80e28225ff96afde-1712382357903-with-play.gif">
-  </div>
 
+<div>
+    <a href="https://www.loom.com/share/4f74176dd83c4f4d80e28225ff96afde">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f74176dd83c4f4d80e28225ff96afde-1712382357903-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
