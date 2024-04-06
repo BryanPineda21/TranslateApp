@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
   
-  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f74176dd83c4f4d80e28225ff96afde-with-play.gif"/>
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f74176dd83c4f4d80e28225ff96afde-with-play.gif">
  
 
 
